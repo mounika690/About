@@ -6,8 +6,9 @@
 
 
 📂 Projects:
+- Address Book System
 - Steganography (LSB Technique)
-- Address Book System  
+- MINISHELL
 
 🚀 Currently learning and building real-world applications
 
